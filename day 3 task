@@ -1,0 +1,18 @@
+Creating RESUME:
+
+{
+    "Name": "INTHUSAKTHIVEL",
+    "Email": "simnov84@yahoo.com",
+    "Phone": "91-9566618266",
+    "Location": {
+      "Address": "XXX",
+      "City": "YYY",
+      "State": "ZZZ",
+      "Country": "India",
+    },
+      "EDUCATION": [
+    {
+      "Degree": "B.Tech in Information Technology",
+      "Institution": "XXX",
+      }
+     ]
